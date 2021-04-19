@@ -1,2 +1,2 @@
 # ML-PRACTICALS
-Semester-6
+College Practicals Uploaded
